@@ -81,7 +81,7 @@
 
 |               Assignment               | Date Assigned |   Due Date   |    Tutorial  |   Solution   |    Point     |
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
-|          [Assignment 1]                |  2021.05.22   |  2021.05.28  |              |              |     20       |
+|          [Assignment 1]                |  2021.05.22   |  2021.05.28  |    [Video](https://www.loom.com/share/b79c55043abd4d7697080723c95c77b2)          |              |     20       |
 
 
 
