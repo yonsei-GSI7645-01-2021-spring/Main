@@ -26,7 +26,7 @@
 | Class |       Date       |      Topic     |       Detail       |   Assignment  | FAQ |
 |:-----:|:----------------:|:--------------:|:------------------:|:-------------:|:---:|
 |  1  |  5월 22일           |    환경설정      |[Lecture 1],[Practice 1] | [Assignment 1] |    |
-|  3  |  6월 5일            |    지도 학습-1     |[Lecture 2]|               |    |
+|  3  |  6월 5일            |    지도 학습-1     |[Lecture 1],[Practice 2] | [Assignment 2] |    |
 |  2  |  5월 29일           |    지도 학습-2     |                   |               |    |
 |  4  |  6월 12일           |    비지도 학습     |                   |               |    |
 |  5  |  6월 19일           |    데이터 표현과 특성공학  |                   |               |    |
@@ -81,7 +81,8 @@
 
 |               Assignment               | Date Assigned |   Due Date   |    Tutorial  |   Solution   |    Point     |
 |:--------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
-|          [Assignment 1]                |  2021.05.22   |  2021.05.28  |    [Video](https://www.loom.com/share/b79c55043abd4d7697080723c95c77b2)          |              |     20       |
+|          [Assignment 1]                |  2021.05.22   |  2021.05.28  |    [Video](https://www.loom.com/share/b79c55043abd4d7697080723c95c77b2)           |              |     20       |
+|          [Assignment 2]                |  2021.05.29   |  2021.06.05  |              |              |     20       |
 
 
 
