@@ -25,10 +25,10 @@
 
 | Class |       Date       |      Topic     |       Detail       |   Assignment  | FAQ |
 |:-----:|:----------------:|:--------------:|:------------------:|:-------------:|:---:|
-|  1  |  5월 22일           |    환경설정      |[Lecture 1],[Practice 1] | [Assignment 1] |    |
-|  3  |  6월 5일            |    지도 학습-1     |[Lecture 2],[Practice 2] | [Assignment 2] |    |
-|  2  |  5월 29일           |    지도 학습-2     |[Lecture 3],[Practice 3] | 없습니다! |    |
-|  4  |  6월 12일           |    비지도 학습     |                   |               |    |
+|  1  |  5월 22일           |    환경설정       |[Lecture 1],[Practice 1] | [Assignment 1] |    |
+|  3  |  6월 5일            |    지도 학습-1    |[Lecture 2],[Practice 2] | [Assignment 2] |    |
+|  2  |  5월 29일           |    지도 학습-2    |[Lecture 3],[Practice 3] | 없습니다! |    |
+|  4  |  6월 12일           |    비지도 학습     |[Lecture 4],[Practice 4] | 없습니다! |    |
 |  5  |  6월 19일           |    데이터 표현과 특성공학  |                   |               |    |
 |  6  |  6월 26일           |    모델 평가와 성능향상    |                   |               |    |
 |  7  |  7월 2일            |    딥 러닝       |                   |               |    |
