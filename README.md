@@ -34,7 +34,7 @@
 |  7  |  7월 2일            |    딥 러닝       | [Lecture 7],[Practice 7] |  |    |
 |  8  |  7월 9일            |    이상탐지      | [Lecture 8],[Practice 8] |  |    |
 |  9  |  7월 16일           |    시계열 분석    | [Lecture 9],[Practice 9] |  |    |
-|  10 |  7월 23일           |    추천시스템   | 
+|  10 |  7월 23일           |    추천시스템   | [Lecture 10],[Practice 10] |  |    |
 
 
 
